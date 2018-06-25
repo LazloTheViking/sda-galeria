@@ -1,3 +1,5 @@
 node_modules/
 #automatically generated
-main.js
+scripts/js
+scripts/libs
+.idea/
